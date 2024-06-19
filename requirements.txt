@@ -5,3 +5,5 @@ openai-clip
 tqdm
 Pillow
 transformers
+# pickle
+cairosvg
